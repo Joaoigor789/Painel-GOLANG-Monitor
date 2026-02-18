@@ -1,0 +1,16 @@
+{
+    "projectColorizer.workspaceColor": "#7c44bb",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#7c44bb",
+        "activityBar.foreground": "#FFFFFF",
+        "activityBarBadge.background": "#FFFFFF",
+        "activityBarBadge.foreground": "#7c44bb",
+        "statusBar.background": "#7c44bb",
+        "statusBar.foreground": "#FFFFFF",
+        "statusBarItem.hoverBackground": "#8956c2",
+        "titleBar.activeBackground": "#7c44bb",
+        "titleBar.activeForeground": "#FFFFFF",
+        "titleBar.inactiveBackground": "#63408c",
+        "titleBar.inactiveForeground": "#FFFFFFb3"
+    }
+}
