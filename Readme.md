@@ -5,6 +5,8 @@
 O MonitorGo é um aplicativo desenvolvido em Go (Golang) para monitoramento de recursos do computador em tempo real através de um painel web moderno.
 Inspirado em ferramentas como o Zabbix, o sistema permite acompanhar o desempenho da máquina de forma simples, leve e eficiente diretamente pelo navegador.
 
+![imagem](img/panel.png)
+
 ## Para que serve
 
 O MonitorGo foi criado para:
